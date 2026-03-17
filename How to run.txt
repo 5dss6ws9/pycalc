@@ -12,7 +12,7 @@
 ─██░░██───────────────██░░██───────██░░░░░░░░░░██─██░░██──██░░██─██░░░░░░░░░░██─██░░░░░░░░░░██──────────██░░░░░░██─██░░██─██░░░░░░░░░░██─
 ─██████───────────────██████───────██████████████─██████──██████─██████████████─██████████████──────────██████████─██████─██████████████─
 ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-                                                  by Victor Szorc / 2025/7/9
+                                                  by 5dss6ws9 / 2025/7/9
 
 
 Make sure you have Python 3.6 or newer installed. If not, download it from python.org. (Make sure to add it to PATH)
@@ -23,9 +23,5 @@ Run "pycalc.exe" as an administrator.
 
 Type "python app.py" or replace python with python3 if it doesn't work.
 From there, the app should run!
-
-Pycalc 1.00
-
-Victor Szorc
 
 Enjoy your Pycalc!!!!!

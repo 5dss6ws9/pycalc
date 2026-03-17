@@ -5,23 +5,10 @@ Pycalc is a simple calculator made in purely Python. This is my first real progr
 **Requirements**
 
 
-Windows 8 or later, x64
+Windows 8 or later x64
 
 
-Python 3.6 or later, x64
-
-
-
-**Planned features**
-
-
-1.01: Adding exponent power option to calc menu
-
-
-1.02: Making pycalc launcher
-
-
-1.1: Reworking pycalc code
+Python 3.6 or later x64
 
 Uses GNU General Public License 3
 

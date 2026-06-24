@@ -4,11 +4,11 @@ Pycalc is a simple calculator made in purely Python. This is my first real progr
 
 **Requirements**
 
-
 Windows 8 or later x64
 
-
 Python 3.6 or later x64
+
+**Note: When migrating from different versions, you will need to uninstall your previous version before installing the newer one.**
 
 Uses GNU General Public License 3
 

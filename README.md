@@ -1,4 +1,4 @@
-**Pycalc**
+<img src="logo.png" alt="Pycalc" width="200">
 
 Pycalc is a simple calculator made in purely Python. This is my first real program of Python!
 
